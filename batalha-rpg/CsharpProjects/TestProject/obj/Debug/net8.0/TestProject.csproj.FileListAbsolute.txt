@@ -1,0 +1,14 @@
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Workspace\C#\batalha-rpg\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
